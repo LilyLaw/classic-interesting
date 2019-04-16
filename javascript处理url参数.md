@@ -1,9 +1,10 @@
 ## JavaScript 处理url参数
 
-要求将url中的参数组合成键值对的方式
+## 要求
+将url中的参数组合成键值对的方式
 
 ### 实现
-1. 方法一：字符串处理函数
+1. 方法一：字符串函数处理
 
 ``` javascript
 function queryUrlParams(url){
